@@ -1,0 +1,4 @@
+Vodka
+Pivo
+Martini
+Wine
